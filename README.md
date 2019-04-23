@@ -4,8 +4,8 @@
 gateway/proxy to use sendgrid from react app, avoiding CORS problem
 
 # Problem to solve
-If you have a web application based on React or smliar and want to use Sendgrid as a 3rd party mail integration you will face a CORS problem. 
-Sendgrid explains the problemn here https://sendgrid.com/docs/for-developers/sending-email/cors/ and they end the article by saying 
+If you have a web application based on React or similar and want to use Sendgrid as a 3rd party mail integration you will face a CORS problem. 
+Sendgrid explains the problem here https://sendgrid.com/docs/for-developers/sending-email/cors/ and they end the article by saying 
 >You can create a server-based application
 
 Well, here it is :)
